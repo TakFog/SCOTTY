@@ -1,0 +1,6 @@
+[submodule "console"]
+	path = console
+	url = https://github.com/TakFog/ggj2018.git
+[submodule "planet"]
+	path = planet
+	url = https://github.com/Fededark/GGJ_2018.git
