@@ -1,6 +1,6 @@
 # S.C.O.T.T.Y. - Beam Me Up
 
-Game created in 48h during Global Game Jam 2018 with the theme “Transmission”.
+Game created in 48h during Global Game Jam 2018 with the theme "Transmission".
 
 Official page: https://globalgamejam.org/2018/games/scotty-beam-me
 
@@ -8,4 +8,4 @@ Official page: https://globalgamejam.org/2018/games/scotty-beam-me
 
 Console: https://github.com/TakFog/ggj2018.git
 
-Planet: https://github.com/Fededark/GGJ_2018.git
+Planet: https://github.com/TakFog/SCOTTY_planet.git
